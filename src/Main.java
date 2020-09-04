@@ -77,7 +77,7 @@ public class Main {
         long l = adder.sum();
         System.out.println(l);*/
         //File file = new File("d:",);
-        /*String s = UUID.randomUUID().toString();
+        String s = UUID.randomUUID().toString();
         System.out.println(s);
         System.out.println("---------------------");
         String replace = s.replace("-", "");
@@ -88,7 +88,7 @@ public class Main {
             int read = inputStream.read();
         } catch (IOException e) {
             e.printStackTrace();
-        }*/
+        }
 
 
     }
